@@ -1,5 +1,9 @@
 {
     "name": "kamouh/laravel-10-for-beginner",
+    "require-dev": {
+        "caouecs/laravel4-lang": "^13.2",
+        "laravel/breeze": "^1.23"
+    },
     "autoload": {
         "psr-4": {
             "Kamouh\\Laravel10ForBeginner\\": "src/"
